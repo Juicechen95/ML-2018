@@ -2,4 +2,4 @@
 machine learning coding
 
 # learning web
-http:@@//jupyter@@.apexlab@@.org/tree
+http:@@//jupyter@@.apexlab@@.org/tree@@@@boy@uml2018
