@@ -1,5 +1,9 @@
-# ML-2018
-machine learning coding
+# teacher Yu
 
-# learning web
-http:@@//jupyter@@.apexlab@@.org/tree@@@@boy@uml2018
+提问，自省
+
+# tencent AI lab
+
+- 深度强化学习在星际争霸中
+
+
