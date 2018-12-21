@@ -20,3 +20,26 @@ tracking-  LSTM + 深度强化学习
 Google -- wide deep learning 
 
 稀疏分组嵌入网络-- GwEN  阿里
+
+# bytedance
+
+language generation and translation
+
+	news writing robots 小明robot。Xiaomingbot   体育等
+  
+	author writing assist tools(tittle and summerize)
+	
+  Ads slogan design
+	
+  auto commenting bot
+	
+  Translation of content
+
+Advanced Sentence modeling
+
+zhouhao.nlp@bytedance.com
+
+# Didi
+滴滴分单
+
+匹配算法中的边权值变成强化学习的价值函数
